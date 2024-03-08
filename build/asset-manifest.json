@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5e96ce9.css",
+    "main.js": "/static/js/main.cfb21bc8.js",
+    "static/js/988.6e433fde.chunk.js": "/static/js/988.6e433fde.chunk.js",
+    "static/media/rpatent.jpg": "/static/media/rpatent.2690881299434362e597.jpg",
+    "static/media/aboutbackground.jpg": "/static/media/aboutbackground.7e76db4ca11cf14ff9c2.jpg",
+    "static/media/about 2.jpg": "/static/media/about 2.4e74b8f46cd21d41c4b4.jpg",
+    "static/media/patent1.jpg": "/static/media/patent1.8f5ad4083a3be1dddd70.jpg",
+    "static/media/bacg.png": "/static/media/bacg.b2f7afc85c4bb1f39a15.png",
+    "static/media/p3.jpg": "/static/media/p3.580014fac95181ccaaa2.jpg",
+    "static/media/about1.jpg": "/static/media/about1.9a196e6ce4d5f3388d40.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.d9b3cd2e6b7f720fe7ba.jpeg",
+    "index.html": "/index.html",
+    "main.e5e96ce9.css.map": "/static/css/main.e5e96ce9.css.map",
+    "main.cfb21bc8.js.map": "/static/js/main.cfb21bc8.js.map",
+    "988.6e433fde.chunk.js.map": "/static/js/988.6e433fde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e96ce9.css",
+    "static/js/main.cfb21bc8.js"
+  ]
+}
