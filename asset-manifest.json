@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/patent-registration/static/css/main.6408e5da.css",
-    "main.js": "/patent-registration/static/js/main.3ad4dd66.js",
+    "main.js": "/patent-registration/static/js/main.08221abd.js",
     "static/js/988.6e433fde.chunk.js": "/patent-registration/static/js/988.6e433fde.chunk.js",
     "static/media/rpatent.jpg": "/patent-registration/static/media/rpatent.2690881299434362e597.jpg",
     "static/media/aboutbackground.jpg": "/patent-registration/static/media/aboutbackground.7e76db4ca11cf14ff9c2.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.jpeg": "/patent-registration/static/media/logo.d9b3cd2e6b7f720fe7ba.jpeg",
     "index.html": "/patent-registration/index.html",
     "main.6408e5da.css.map": "/patent-registration/static/css/main.6408e5da.css.map",
-    "main.3ad4dd66.js.map": "/patent-registration/static/js/main.3ad4dd66.js.map",
+    "main.08221abd.js.map": "/patent-registration/static/js/main.08221abd.js.map",
     "988.6e433fde.chunk.js.map": "/patent-registration/static/js/988.6e433fde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6408e5da.css",
-    "static/js/main.3ad4dd66.js"
+    "static/js/main.08221abd.js"
   ]
 }
