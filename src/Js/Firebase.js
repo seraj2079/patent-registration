@@ -5,13 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBE4cHfbbhxkn-srIBhNFxGOgqqaV5W0WI",
-  authDomain: "patent-1af2d.firebaseapp.com",
-  databaseURL: "https://patent-1af2d-default-rtdb.firebaseio.com",
-  projectId: "patent-1af2d",
-  storageBucket: "patent-1af2d.appspot.com",
-  messagingSenderId: "418181215782",
-  appId: "1:418181215782:web:3bb98f8ee642353f0618e7"
+  apiKey: "AIzaSyCDklFhjtM0J1qcUuMfu0sH7twuScUSFoM",
+  authDomain: "patent-hub-c7349.firebaseapp.com",
+  projectId: "patent-hub-c7349",
+  storageBucket: "patent-hub-c7349.firebasestorage.app",
+  messagingSenderId: "1079752053831",
+  appId: "1:1079752053831:web:9f9113f2c2fe94ad0c0d62"
 };
 
 // Initialize Firebase

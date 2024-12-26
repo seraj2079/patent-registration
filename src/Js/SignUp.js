@@ -46,7 +46,7 @@ const SignUp = () => {
             };
 
             const res = await fetch(
-                'https://patent-1af2d-default-rtdb.firebaseio.com/SignUp_Data.json',
+                'https://patent-hub-c7349-default-rtdb.firebaseio.com//SignUp_Data.json',
                 options
             );
 

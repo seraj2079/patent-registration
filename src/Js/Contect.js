@@ -43,7 +43,7 @@ const Contact = () => {
       })
      }
      const res = fetch(
-        'https://patent-1af2d-default-rtdb.firebaseio.com/Contact_Data.json',
+        'https://patent-hub-c7349-default-rtdb.firebaseio.com/Contact_Data.json',
       options
       )
       if(res)

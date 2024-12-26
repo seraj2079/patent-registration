@@ -90,7 +90,7 @@ const Registration = () => {
             })
         }
         const res = fetch(
-            'https://patent-1af2d-default-rtdb.firebaseio.com/UserData.json',
+            'https://patent-hub-c7349-default-rtdb.firebaseio.com/UserData.json',
             options
         )
         if (res) {

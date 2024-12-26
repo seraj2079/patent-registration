@@ -10,7 +10,7 @@ const Footer = () => {
       style={{ position: "fixd", bottom: "0", width: "100%" ,height:"50px", }}
     >
       <div className="container">
-        <p>&copy; 2023 Patent Hub. All rights reserved. by- MD MASHOOD ALAM</p>
+        <p>&copy; 2023 Patent Hub. All rights reserved. by- MD SERAJ</p>
       </div>
     </footer>
     // </div>
